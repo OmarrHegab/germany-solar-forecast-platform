@@ -138,7 +138,7 @@ The Streamlit dashboard provides:
 * Adjustable time window
 * Real-time model evaluation metrics
 
-👉 ![alt text](<Screenshot 2026-04-12 165525.png>)
+![alt text](<Screenshot 2026-04-12 165525.png>)
 
 ---
 
