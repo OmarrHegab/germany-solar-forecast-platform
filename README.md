@@ -171,5 +171,5 @@ This project demonstrates how to move from a simple ML model to a **production-s
 
 ## 👤 Author
 
-Your Name
-GitHub: https://github.com/YOUR_USERNAME
+Omar Hegab
+GitHub: https://github.com/OmarrHegab
