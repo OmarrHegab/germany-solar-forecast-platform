@@ -72,7 +72,7 @@ germany-solar-forecast-platform/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/germany-solar-forecast-platform.git
+git https://github.com/OmarrHegab/germany-solar-forecast-platform.git
 cd germany-solar-forecast-platform
 ```
 
