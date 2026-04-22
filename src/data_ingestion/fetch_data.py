@@ -1,10 +1,7 @@
 import requests
 import pandas as pd
-from datetime import datetime
 
-# ---------------------------
-# 1. Fetch weather data
-# ---------------------------
+
 def fetch_weather():
     url = "https://archive-api.open-meteo.com/v1/archive"
 
@@ -30,9 +27,7 @@ def fetch_weather():
     return df
 
 
-# ---------------------------
-# 2. Dummy solar data (TEMP)
-# ---------------------------
+
 def fetch_solar_dummy(weather_df):
     # Temporary: simulate solar output
     df = weather_df.copy()
@@ -41,9 +36,7 @@ def fetch_solar_dummy(weather_df):
     return df[["time", "solar_generation"]]
 
 
-# ---------------------------
-# 3. Save data
-# ---------------------------
+
 def save_data(df, name):
     path = f"data/raw/{name}.parquet"
     df.to_parquet(path, index=False)
