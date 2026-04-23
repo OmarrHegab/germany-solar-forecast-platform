@@ -155,11 +155,11 @@ The Streamlit dashboard provides:
 
 ## 🚧 Future Improvements
 
-* Replace synthetic solar data with real data from Fraunhofer ISE
-* Add FastAPI for model serving
+* Replacing synthetic solar data with real data from Fraunhofer ISE
+* Adding FastAPI for model serving
 * Deploy dashboard online (Streamlit Cloud / AWS)
-* Add automated retraining pipeline
-* Improve feature engineering (lag features, rolling windows)
+* Adding automated retraining pipeline
+* Improving feature engineering (lag features, rolling windows)
 
 ---
 
