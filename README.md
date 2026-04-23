@@ -157,7 +157,7 @@ The Streamlit dashboard provides:
 
 * Replacing synthetic solar data with real data from Fraunhofer ISE
 * Adding FastAPI for model serving
-* Deploy dashboard online (Streamlit Cloud / AWS)
+* Deploying dashboard online (Streamlit Cloud / AWS)
 * Adding automated retraining pipeline
 * Improving feature engineering (lag features, rolling windows)
 
